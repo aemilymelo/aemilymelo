@@ -4,7 +4,7 @@
 
 <p align="center">Estudante de Ciência da Computação</p>
 <p align="center">Desenvolvedora Full-Stack em formação</p>
-<p align="center">Apaixonada por Tecnologia, Inovação e Qaualidade</p>
+<p align="center">Apaixonada por Tecnologia, Inovação e Qualidade</p>
 
 <p align="center">✨  "A tecnologia não é só uma ferramenta, é o que move o mundo e define o futuro!" ✨ </p>
 
