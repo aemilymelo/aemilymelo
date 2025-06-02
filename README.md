@@ -1,8 +1,10 @@
-<h1 align="center">Oi👋! Eu sou a Emily!</h1>
+<h1 align="center">Oi👋, Eu sou a Emily!</h1>
 
 ###
 
 <p align="center">Sou estudante de Ciência da Computação na UTFPR , apaixonada por tecnologia , e estou em constante evolução como desenvolvedora Full Stack .</p>
+
+<p align="center">✨  "A tecnologia não é só uma ferramenta, é o que move o mundo e define o futuro!" ✨ </p>
 
 ###
 
